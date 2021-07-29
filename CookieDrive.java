@@ -1,8 +1,4 @@
 /*
-  I have abided by that UNCG Academic Integrity Policy
-  Mark Armstrong
-  9/11/2020
-  This program will simulate purchasing boxes of girl scout cookies.
   The user chooses between 5 different types of cookies and chooses how
   many boxes of cookies they desired.  The user also enters their age.
   The program will calculate the subtotal based on type of cookie and number
