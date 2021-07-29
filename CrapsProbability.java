@@ -1,7 +1,4 @@
 /*
-  I have abided by the UNCG Academic Integrity Policy
-  Mark Armstrong
-  10/19/20
   This program will simulate the playing of 28,657 games of Craps. It will
   display the outcome of each round and will display the total wins, the
   total losses, and the final probability of winning at the end.
